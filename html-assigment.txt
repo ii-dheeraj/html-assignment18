@@ -1,0 +1,14 @@
+Answer 1: Table Properties allows you to set general properties of a table, set cell styles for various parts of a table, and save a set of those properties
+ as a TableLook. You can: Control general properties, such as hiding empty rows or columns and adjusting printing properties.
+
+Answer 2: The media elements, as the HTML5 audio and video elements are generically termed, are a way of embedding playable media files directly into a web
+ page without having to use Flash or a plug-in. The elements can be styled with CSS, integrated with SVG and Canvas, and controlled with JavaScript.
+
+Answer 3: The GET method transfers data in the URL with a query string. Therefore, the length of the URL is limited. GET is preferable for images, word 
+documents or data that does not require any security. POST is an HTTP method that encodes form data in a specified format and sends it to the server via
+ the HTTP message body.
+
+Answer 4: The type attribute in the input element can be many types, which defines the input box. Now let's know some input types. Some input types are Text
+, Password, Email, File uploads, Date, Checkboxes, Radio and Submit Buttons, URL, Dropdown lists etc
+
+
